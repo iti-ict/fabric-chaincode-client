@@ -18,7 +18,7 @@
     "fabric-ca-client": "^1.4.8",
     "fabric-client": "^1.4.8",
     "fabric-network": "^1.4.8",
-    "jsrsasign": "^8.0.15"
+    "jsrsasign": "^10.2.0"
   },
   "devDependencies": {
     "@types/chai": "^4.2.11",
